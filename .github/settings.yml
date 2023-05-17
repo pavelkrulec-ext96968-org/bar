@@ -71,3 +71,7 @@ branches:
     protection:
       required_pull_request_reviews:
         required_approving_review_count: 2
+  - name: test
+    protection:
+      required_pull_request_reviews:
+        required_approving_review_count: 3
