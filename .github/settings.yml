@@ -53,7 +53,7 @@ repository:
 # Labels: define labels for Issues and Pull Requests
 # If including a `#`, make sure to wrap it with quotes!
 labels:
-  - name: bug
+  - name: buggy
     color: '#ff0000'
     description: An issue with the library
 
